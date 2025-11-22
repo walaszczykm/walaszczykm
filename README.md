@@ -2,7 +2,7 @@
 
 #### Bio 
 
-Head of App Core at Text, Inc. 10 years of experience. Passionate about Web Apps, TypeScript, Cloud Computing and Dev Tooling. Mainly works with React and Fastify but interested in all kinds of frameworks. An advocate for learning by practice and understanding. Active maintainer of company open source projects. Occasional writer and tutor.
+CTO at Text, Inc. 10 years of experience. Passionate about Web Apps, TypeScript, Cloud Computing and Dev Tooling. Mainly works with React and Fastify but interested in all kinds of frameworks. An advocate for learning by practice and understanding. Active maintainer of company open source projects. Occasional writer and tutor.
 
 #### My public presence
 - 📖 Article: [Screen readers: hearing the unseen](https://developers.livechat.com/updates/livechat-accessibility-screen-readers)
